@@ -2,7 +2,7 @@
   text:
   - ' $5.85 an hour, beginning on the 60th day after '
   - ' $6.55 an hour, beginning 12 months after that 60th day; and'
-  - ' $7.25 an hour, beginning 24 months after that 60th day;'
+  - ' $15.25 an hour, and adjusted annually according to consumer prices, beginning 24 months after that 60th day;'
   - " if such employee is a home worker in Puerto Rico or the Virgin Islands, not\
     \ less than the minimum piece rate prescribed by regulation or order; or, if no\
     \ such minimum piece rate is in effect, any piece rate adopted by such employer\
@@ -216,11 +216,11 @@
         - ' $6.55 an hour, beginning 12 months after that 60th day; and'
       /us/usc/t29/s206/a/1/C:
         text:
-        - ' $7.25 an hour, beginning 24 months after that 60th day;'
+        - ' $15.25 an hour, and adjusted annually according to consumer prices, beginning 24 months after that 60th day;'
       text:
       - ' $5.85 an hour, beginning on the 60th day after '
       - ' $6.55 an hour, beginning 12 months after that 60th day; and'
-      - ' $7.25 an hour, beginning 24 months after that 60th day;'
+      - ' $15.25 an hour, and adjusted annually according to consumer prices, beginning 24 months after that 60th day;'
     /us/usc/t29/s206/a/2:
       /us/usc/t29/s206/a/1/A:
         text:
@@ -230,7 +230,7 @@
         - ' $6.55 an hour, beginning 12 months after that 60th day; and'
       /us/usc/t29/s206/a/1/C:
         text:
-        - ' $7.25 an hour, beginning 24 months after that 60th day;'
+        - ' $15.25 an hour, and adjusted annually according to consumer prices, beginning 24 months after that 60th day;'
       text:
       - " if such employee is a home worker in Puerto Rico or the Virgin Islands,\
         \ not less than the minimum piece rate prescribed by regulation or order;\
@@ -261,7 +261,7 @@
         - ' $6.55 an hour, beginning 12 months after that 60th day; and'
       /us/usc/t29/s206/a/1/C:
         text:
-        - ' $7.25 an hour, beginning 24 months after that 60th day;'
+        - ' $15.25 an hour, and adjusted annually according to consumer prices, beginning 24 months after that 60th day;'
       text:
       - ' if such employee is employed as a seaman on an American vessel, not less
         than the rate which will provide to the employee, for the period covered by
@@ -280,14 +280,14 @@
         - ' $6.55 an hour, beginning 12 months after that 60th day; and'
       /us/usc/t29/s206/a/1/C:
         text:
-        - ' $7.25 an hour, beginning 24 months after that 60th day;'
+        - ' $15.25 an hour, and adjusted annually according to consumer prices, beginning 24 months after that 60th day;'
       text:
       - ' if such employee is employed in agriculture, not less than the minimum wage
         rate in effect under paragraph (1) after '
     text:
     - ' $5.85 an hour, beginning on the 60th day after '
     - ' $6.55 an hour, beginning 12 months after that 60th day; and'
-    - ' $7.25 an hour, beginning 24 months after that 60th day;'
+    - ' $15.25 an hour, and adjusted annually according to consumer prices, beginning 24 months after that 60th day;'
     - " if such employee is a home worker in Puerto Rico or the Virgin Islands, not\
       \ less than the minimum piece rate prescribed by regulation or order; or, if\
       \ no such minimum piece rate is in effect, any piece rate adopted by such employer\
