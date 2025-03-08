@@ -9,13 +9,25 @@
       - 'except as otherwise provided in this section, not less than --'
       /us/usc/t29/s206/a/1/A:
         text:
-        - ' $5.85 an hour, beginning on the 60th day after May 25, 2007'
+        - ' $9.50 an hour, beginning on the effective date under section 7 of the Raise the Wage Act of 2023;'
       /us/usc/t29/s206/a/1/B:
         text:
-        - ' $6.55 an hour, beginning 12 months after that 60th day; and'
+        - ' $11.00 an hour, beginning 1 year after such effective date; '
       /us/usc/t29/s206/a/1/C:
         text:
-        - ' $7.25 an hour, beginning 24 months after that 60th day;'
+        - ' $12.50 an hour, beginning 2 years after such effective date;'
+      /us/usc/t29/s206/a/1/D:
+        text:
+        - ' $14.00 an hour, beginning 3 years after such effective date;'
+      /us/usc/t29/s206/a/1/E:
+        text:
+        - ' $15.50 an hour, beginning 4 years after such effective date;'
+      /us/usc/t29/s206/a/1/F:
+        text:
+        - ' $17.00 an hour, beginning 5 years after such effective date;'
+      /us/usc/t29/s206/a/1/G:
+        text:
+        - ' beginning on the date that is 6 years after such effective date, and annually there-after, the amount determined by the Secretary under subsection (h);'
     /us/usc/t29/s206/a/2:
       text:
       - " if such employee is a home worker in Puerto Rico or the Virgin Islands,\
@@ -143,8 +155,35 @@
       text:
       - ' In lieu of the rate prescribed by subsection (a)(1), any employer may pay
         any employee of such employer, during the first 90 consecutive calendar days
-        after such employee is initially employed by such employer, a wage which is
-        not less than $4.25 an hour.'
+        after such employee is initially employed by such employer, a wage at a rate that
+        is not less than --'
+      /us/usc/t29/s206/g/1/A:
+        text:
+        - ' for the 1-year period beginning on the ef
+            fective date under section 7 of the Raise the Wage 
+            Act of 2023, $6.00 an hour;'
+      /us/usc/t29/s206/g/1/B:
+        text:
+        - ' for each succeeding 1-year period until the 
+            hourly wage under this paragraph equals the wage 
+            in effect under section 6(a)(1) for such period, an 
+            hourly wage equal to the amount determined under
+            this paragraph for the preceding year, increased by
+            the lesser of --'
+        /us/usc/t29/s206/g/1/B/i:
+          text:
+          - ' 1.75; or'
+        /us/usc/t29/s206/g/1/B/ii:
+          text:
+          - '  the amount necessary for the wage in 
+              effect under this paragraph to equal the wage 
+              in effect under section 6(a)(1) for such period; 
+              and'
+      /us/usc/t29/s206/g/1/C:
+          text:
+          - '  for each succeeding 1-year period after the 
+            increase made pursuant to subparagraph (B)(ii), the 
+            minimum wage in effect under section 6(a)(1).'
     /us/usc/t29/s206/g/2:
       text:
       - ' In lieu of the rate prescribed by subsection (a)(1), the Governor of Puerto
@@ -168,4 +207,35 @@
         age of 20 years, except in the case of the wage applicable in Puerto Rico,
         25 years, until such time as the Board described in paragraph (2) terminates
         in accordance with section 2149 of title 48.'
-
+  /us/usc/t29/s206/h:
+    /us/usc/t29/s206/h/1:
+      text:
+      - "Not later than each date that is 90 days be
+        fore a new minimum wage determined under subsection 
+        (a)(1)(G) is to take effect, the Secretary shall determine 
+        the minimum wage to be in effect under this subsection 
+        for each period described in subsection (a)(1)(G). The 
+        wage determined under this subsection for a year shall 
+        be—"
+      /us/usc/t29/s206/h/1/A:
+        text:
+        - "not less than the amount in effect under 
+           subsection (a)(1) on the date of such determination;"
+      /us/usc/t29/s206/h/1/B:
+        text:
+        - "increased from such amount by the annual percentage increase,
+           if any, in the median hourly wage of all employees as determined
+           by the Bureau of Labor Statistics; and"
+      /us/usc/t29/s206/h/1/C:
+        text:
+        - "rounded up to the nearest multiple of $0.05, if the amount after applying subparagraphs (A) and (B) is not a multiple of $0.05."
+    /us/usc/t29/s206/h/2/:
+      text:
+      - "In calculating the annual percentage increase in 
+         the median hourly wage of all employees for purposes of 
+         paragraph (1)(B), the Secretary, through the Bureau of 
+         Labor Statistics, shall compile data on the hourly wages 
+         of all employees to determine such a median hourly wage 
+         and compare such median hourly wage for the most recent 
+         year for which data are available with the median hourly 
+         wage determined for the preceding year."

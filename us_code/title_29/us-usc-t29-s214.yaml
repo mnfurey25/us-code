@@ -173,7 +173,41 @@
         age, physical or mental deficiency, or injury, at wages which are --'
       /us/usc/t29/s214/c/1/A:
         text:
-        - ' lower than the minimum wage applicable under section 206 of this title,'
+        - ' at a rate that equals or exceeds, for each year, the greater of --'
+        /us/usc/t29/s214/c/1/A/i/:
+          /us/usc/t29/s214/c/1/A/i/I:
+            text:
+            - '$5.00 an hour, beginning on the effective date under section 7 of the Raise the 
+                Wage Act of 2023'
+          /us/usc/t29/s214/c/1/A/i/II:
+            text:
+            - '$7.50 an hour, beginning 1 year 
+                after such effective date; '
+          /us/usc/t29/s214/c/1/A/i/III:
+            text:
+            - '$10.00 an hour, beginning 2 years 
+                after such effective date; '
+          /us/usc/t29/s214/c/1/A/i/IV:
+            text:
+            - '$12.50 an hour, beginning 3 years 
+                after such effective date; '
+          /us/usc/t29/s214/c/1/A/i/V:
+            text:
+            - '$15.50 an hour, beginning 4 years 
+                after such effective date; '
+          /us/usc/t29/s214/c/1/A/i/VI:
+            text:
+            - 'the wage rate in effect under section 6(a)(1),
+               beginning 5 years after such effective date; or'
+        /us/usc/t29/s214/c/1/A/ii:
+          text:
+          - 'if applicable, the wage rate in effect 
+            on the day before the date of enactment of the 
+            Raise the Wage Act of 2023 for the employ
+            ment, under a special certificate issued under 
+            this paragraph, of the individual for whom the 
+            wage rate is being determined under this sub
+            paragraph,'
       /us/usc/t29/s214/c/1/B:
         text:
         - ' commensurate with those paid to nonhandicapped workers, employed in the

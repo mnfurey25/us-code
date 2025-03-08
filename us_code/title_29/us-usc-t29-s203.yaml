@@ -202,14 +202,59 @@
           \ such employee by the employee's employer shall be an amount equal to--"
         /us/usc/t29/s203/m/2/A/i:
           text:
-          - ' the cash wage paid such employee which for purposes of such determination
-            shall be not less than the cash wage required to be paid such an employee
-            on August 20, 1996; and'
+          - ' the cash wage paid such employee, which 
+            for purposes of such determination shall be not less 
+            than -- '
+          /us/usc/t29/s203/m/2/A/i/I:
+            text:
+            - ' for the 1-year period beginning on the
+                effective date under section 7 of the
+                Raise the Wage Act of 2023, $6.00 an hour;'
+          /us/usc/t29/s203/m/2/A/i/II:
+            text:
+            - ' $8.00 an hour, beginning 1 year 
+                after such effective date;'
+          /us/usc/t29/s203/m/2/A/i/III:
+            text:
+            - ' $10.00 an hour, beginning 2 years 
+                after such effective date;'
+          /us/usc/t29/s203/m/2/A/i/IV:
+            text:
+            - ' $12.00 an hour, beginning 3 years 
+                after such effective date;'
+          /us/usc/t29/s203/m/2/A/i/V:
+            text:
+            - ' $13.50 an hour, beginning 4 years 
+                after such effective date;'
+          /us/usc/t29/s203/m/2/A/i/VI:
+            text:
+            - ' $15.00 an hour, beginning 5 years 
+                after such effective date;'
+          /us/usc/t29/s203/m/2/A/i/VII:
+            text:
+            - ' $17.00 an hour, beginning 6 years 
+                after such effective date;'
+          /us/usc/t29/s203/m/2/A/i/VIII:
+            text:
+            - ' for each succeeding 1-year period after the increase
+                made pursuant to subclause (VII), the minimum wage in effect
+                under section 6(a)(1); and'
         /us/usc/t29/s203/m/2/A/ii:
           text:
           - ' an additional amount on account of the tips received by such employee
             which amount is equal to the difference between the wage specified in
-            clause (i) and the wage in effect under section 206(a)(1) of this title.'
+            clause (i) and the wage in effect under section 206(a)(1) of this title.
+            
+            The additional amount on account of tips may not
+            exceed the value of the tips actually received by an employee.
+            The preceding 2 sentences shall not apply with respect to any 
+            tipped employee unless such employee has been informed by the 
+            employer of the provisions of this subsection. Any employee shall have
+            the right to retain any tips received by such employee,
+            except that this subsection shall not be construed to prohibit 
+            the pooling of tips among employees who customarily and regularly 
+            receive tips. An employer shall inform each employee of the right and
+            exception provided under the preceding sentence.'
       /us/usc/t29/s203/m/2/B:
         text:
         - " An employer may not keep tips received by its employees for any purposes,\
